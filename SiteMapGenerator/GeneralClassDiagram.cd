@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SiteMapGenerator.SiteMapBuilder">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACKAAAAAAACAAAAAIQAgAAAAAggAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SiteMapGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SiteMapGenerator.SiteMapUrl">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAAIAAAACAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SiteMapUrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SiteMapGenerator.SiteMapSerializer">
+    <Position X="4.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>SiteMapSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SiteMapGenerator.SiteMapIndexItem">
+    <Position X="2.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SiteMapIndexItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SiteMapGenerator.SiteMapIndexWriter">
+    <Position X="2.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>SiteMapIndexWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SiteMapGenerator.SiteMapPackage">
+    <Position X="0.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAQAIAAAAAAAAAAgABAAAAAAACAAAAAAAABAA=</HashCode>
+      <FileName>SiteMapPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SiteMapGenerator.SiteMap">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SiteMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SiteMapGenerator.ISiteMapGenerator">
+    <Position X="8.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ISiteMapGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SiteMapGenerator.ChangeFrequencyTypes">
+    <Position X="6.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAAEAAAQAAAAAAAAAAAggAAAAAgA=</HashCode>
+      <FileName>ChangeFrequencyTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
